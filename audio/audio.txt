@@ -1,0 +1,11 @@
+<audio controls="controls" loop="loop" height="50px" width="100px">
+			<source src="audio/01.mp3" type="audio/mp3">
+		<embed height="50px" width="100px" src="audio/01.mp3"/>
+		</audio>
+		<br><br>
+		<video align="center" controls="controls" height="200px" width="297px">
+			<source src="video/01.mp4" type="video/mp4">
+			<source src="video/02.mp4" type="video/mp4">
+			<source src="video/03.mp4" type="video/mp4">
+			<source src="video/04.mp4" type="video/mp4">
+		</audio>

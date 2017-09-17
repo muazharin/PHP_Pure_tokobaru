@@ -1,0 +1,25 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background: #f4f4f4;
+}
+.container{
+	background:#fff;
+	width: 750px;
+	margin: 0 auto;
+}
+header{
+	padding:10px 20px 20px 20px;
+}
+header h1{
+	margin-top: 20px;
+}
+section{
+	padding:20px;
+	text-align: center;
+}
+footer{
+	padding: 20px;
+}
